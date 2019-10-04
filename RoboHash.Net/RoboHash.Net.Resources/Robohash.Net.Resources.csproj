@@ -2265,798 +2265,2382 @@
     <Content Include="sets\set3\006#03Antenna\009#Robot-Design4.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="sets\set4\000#00body\000#body0.png" />
-    <Content Include="sets\set4\000#00body\001#body1.png" />
-    <Content Include="sets\set4\000#00body\002#body2.png" />
-    <Content Include="sets\set4\000#00body\003#body3.png" />
-    <Content Include="sets\set4\000#00body\004#body4.png" />
-    <Content Include="sets\set4\000#00body\005#body5.png" />
-    <Content Include="sets\set4\000#00body\006#body6.png" />
-    <Content Include="sets\set4\000#00body\007#body7.png" />
-    <Content Include="sets\set4\000#00body\008#body8.png" />
-    <Content Include="sets\set4\000#00body\009#body9.png" />
-    <Content Include="sets\set4\000#00body\010#body10.png" />
-    <Content Include="sets\set4\000#00body\011#body11.png" />
-    <Content Include="sets\set4\000#00body\012#body12.png" />
-    <Content Include="sets\set4\000#00body\013#body13.png" />
-    <Content Include="sets\set4\000#00body\014#body14.png" />
-    <Content Include="sets\set4\001#01fur\000#fur0.png" />
-    <Content Include="sets\set4\001#01fur\001#fur1.png" />
-    <Content Include="sets\set4\001#01fur\002#fur2.png" />
-    <Content Include="sets\set4\001#01fur\003#fur3.png" />
-    <Content Include="sets\set4\001#01fur\004#fur4.png" />
-    <Content Include="sets\set4\001#01fur\005#fur5.png" />
-    <Content Include="sets\set4\001#01fur\006#fur6.png" />
-    <Content Include="sets\set4\001#01fur\007#fur7.png" />
-    <Content Include="sets\set4\001#01fur\008#fur8.png" />
-    <Content Include="sets\set4\001#01fur\009#fur9.png" />
-    <Content Include="sets\set4\002#02eyes\000#eyes0.png" />
-    <Content Include="sets\set4\002#02eyes\001#eyes1.png" />
-    <Content Include="sets\set4\002#02eyes\002#eyes2.png" />
-    <Content Include="sets\set4\002#02eyes\003#eyes3.png" />
-    <Content Include="sets\set4\002#02eyes\004#eyes4.png" />
-    <Content Include="sets\set4\002#02eyes\005#eyes5.png" />
-    <Content Include="sets\set4\002#02eyes\006#eyes6.png" />
-    <Content Include="sets\set4\002#02eyes\007#eyes7.png" />
-    <Content Include="sets\set4\002#02eyes\008#eyes8.png" />
-    <Content Include="sets\set4\002#02eyes\009#eyes9.png" />
-    <Content Include="sets\set4\002#02eyes\010#eyes10.png" />
-    <Content Include="sets\set4\002#02eyes\011#eyes11.png" />
-    <Content Include="sets\set4\002#02eyes\012#eyes12.png" />
-    <Content Include="sets\set4\002#02eyes\013#eyes13.png" />
-    <Content Include="sets\set4\002#02eyes\014#eyes14.png" />
-    <Content Include="sets\set4\003#03mouth\000#mouth0.png" />
-    <Content Include="sets\set4\003#03mouth\001#mouth1.png" />
-    <Content Include="sets\set4\003#03mouth\002#mouth2.png" />
-    <Content Include="sets\set4\003#03mouth\003#mouth3.png" />
-    <Content Include="sets\set4\003#03mouth\004#mouth4.png" />
-    <Content Include="sets\set4\003#03mouth\005#mouth5.png" />
-    <Content Include="sets\set4\003#03mouth\006#mouth6.png" />
-    <Content Include="sets\set4\003#03mouth\007#mouth7.png" />
-    <Content Include="sets\set4\003#03mouth\008#mouth8.png" />
-    <Content Include="sets\set4\003#03mouth\009#mouth9.png" />
-    <Content Include="sets\set4\004#04accessories\000#accessory0.png" />
-    <Content Include="sets\set4\004#04accessories\001#accessory1.png" />
-    <Content Include="sets\set4\004#04accessories\002#accessory2.png" />
-    <Content Include="sets\set4\004#04accessories\003#accessory3.png" />
-    <Content Include="sets\set4\004#04accessories\004#accessory4.png" />
-    <Content Include="sets\set4\004#04accessories\005#accessory5.png" />
-    <Content Include="sets\set4\004#04accessories\006#accessory6.png" />
-    <Content Include="sets\set4\004#04accessories\007#accessory7.png" />
-    <Content Include="sets\set4\004#04accessories\008#accessory8.png" />
-    <Content Include="sets\set4\004#04accessories\009#accessory9.png" />
-    <Content Include="sets\set4\004#04accessories\010#accessory10.png" />
-    <Content Include="sets\set4\004#04accessories\011#accessory11.png" />
-    <Content Include="sets\set4\004#04accessories\012#accessory12.png" />
-    <Content Include="sets\set4\004#04accessories\013#accessory13.png" />
-    <Content Include="sets\set4\004#04accessories\014#accessory14.png" />
-    <Content Include="sets\set4\004#04accessories\015#accessory15.png" />
-    <Content Include="sets\set5\000#Body\Black.png" />
-    <Content Include="sets\set5\000#Body\Brown.png" />
-    <Content Include="sets\set5\000#Body\DarkBrown.png" />
-    <Content Include="sets\set5\000#Body\Light.png" />
-    <Content Include="sets\set5\000#Body\Pale.png" />
-    <Content Include="sets\set5\000#Body\Tanned.png" />
-    <Content Include="sets\set5\000#Body\Yellow.png" />
-    <Content Include="sets\set5\001#Eye\Close.png" />
-    <Content Include="sets\set5\001#Eye\Cry.png" />
-    <Content Include="sets\set5\001#Eye\Default.png" />
-    <Content Include="sets\set5\001#Eye\Dizzy.png" />
-    <Content Include="sets\set5\001#Eye\EyeRoll.png" />
-    <Content Include="sets\set5\001#Eye\Happy.png" />
-    <Content Include="sets\set5\001#Eye\Hearts.png" />
-    <Content Include="sets\set5\001#Eye\Side.png" />
-    <Content Include="sets\set5\001#Eye\Squint.png" />
-    <Content Include="sets\set5\001#Eye\Surprised.png" />
-    <Content Include="sets\set5\001#Eye\Wink.png" />
-    <Content Include="sets\set5\001#Eye\WinkWacky.png" />
-    <Content Include="sets\set5\002#Eyebrow\Angry.png" />
-    <Content Include="sets\set5\002#Eyebrow\AngryNatural.png" />
-    <Content Include="sets\set5\002#Eyebrow\Default.png" />
-    <Content Include="sets\set5\002#Eyebrow\DefaultNatural.png" />
-    <Content Include="sets\set5\002#Eyebrow\FlatNatural.png" />
-    <Content Include="sets\set5\002#Eyebrow\RaisedExcited.png" />
-    <Content Include="sets\set5\002#Eyebrow\RaisedExcitedNatural.png" />
-    <Content Include="sets\set5\002#Eyebrow\SadConcerned.png" />
-    <Content Include="sets\set5\002#Eyebrow\SadConcernedNatural.png" />
-    <Content Include="sets\set5\002#Eyebrow\UnibrowNatural.png" />
-    <Content Include="sets\set5\002#Eyebrow\UpDown.png" />
-    <Content Include="sets\set5\002#Eyebrow\UpDownNatural.png" />
-    <Content Include="sets\set5\003#Mouth\Concerned.png" />
-    <Content Include="sets\set5\003#Mouth\Default.png" />
-    <Content Include="sets\set5\003#Mouth\Disbelief.png" />
-    <Content Include="sets\set5\003#Mouth\Eating.png" />
-    <Content Include="sets\set5\003#Mouth\Grimace.png" />
-    <Content Include="sets\set5\003#Mouth\Sad.png" />
-    <Content Include="sets\set5\003#Mouth\ScreamOpen.png" />
-    <Content Include="sets\set5\003#Mouth\Serious.png" />
-    <Content Include="sets\set5\003#Mouth\Smile.png" />
-    <Content Include="sets\set5\003#Mouth\Tongue.png" />
-    <Content Include="sets\set5\003#Mouth\Twinkle.png" />
-    <Content Include="sets\set5\003#Mouth\Vomit.png" />
-    <Content Include="sets\set5\004#Cloth\BlazerShirt.png" />
-    <Content Include="sets\set5\004#Cloth\BlazerSweater.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Black.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Blue01.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Blue02.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Blue03.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Gray02.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Heather.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelBlue.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelGreen.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelOrange.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelRed.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelYellow.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Pink.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-Red.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater-White.png" />
-    <Content Include="sets\set5\004#Cloth\CollarSweater.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt--SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Bat.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Bear.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Cumbia.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Deer.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Diamond.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Hola.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Pizza.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Resist.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Selena.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-SkullOutline.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt-White.png" />
-    <Content Include="sets\set5\004#Cloth\GraphicShirt.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Black.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Blue01.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Blue02.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Blue03.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Gray02.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Heather.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-PastelBlue.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-PastelGreen.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-PastelOrange.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-PastelRed.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-PastelYellow.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Pink.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-Red.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie-White.png" />
-    <Content Include="sets\set5\004#Cloth\Hoodie.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Black.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Blue01.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Blue02.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Blue03.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Gray02.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Heather.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-PastelBlue.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-PastelGreen.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-PastelOrange.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-PastelRed.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-PastelYellow.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Pink.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-Red.png" />
-    <Content Include="sets\set5\004#Cloth\Overall-White.png" />
-    <Content Include="sets\set5\004#Cloth\Overall.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Black.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Blue01.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Blue02.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Blue03.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Gray02.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Heather.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelBlue.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelGreen.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelOrange.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelRed.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelYellow.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Pink.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Red.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-White.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Black.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Blue01.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Blue02.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Blue03.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Gray02.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Heather.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelBlue.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelGreen.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelOrange.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelRed.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelYellow.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Pink.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Red.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-White.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck.png" />
-    <Content Include="sets\set5\004#Cloth\ShirtVNeck.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-Auburn.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-Black.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-Blonde.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-BlondeGolden.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-Brown.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-BrownDark.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-Platinum.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight-Red.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardLight.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Auburn.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Black.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Blonde.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-BlondeGolden.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Brown.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-BrownDark.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Platinum.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Red.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMagestic.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-Auburn.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-Black.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-Blonde.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-BlondeGolden.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-Brown.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-BrownDark.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-Platinum.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium-Red.png" />
-    <Content Include="sets\set5\005#FacialHair\BeardMedium.png" />
-    <Content Include="sets\set5\005#FacialHair\Blush.png" />
-    <Content Include="sets\set5\005#FacialHair\FrecklesHeavy001.png" />
-    <Content Include="sets\set5\005#FacialHair\FrecklesLight001.png" />
-    <Content Include="sets\set5\005#FacialHair\FrecklesLight002.png" />
-    <Content Include="sets\set5\005#FacialHair\FrecklesLight003.png" />
-    <Content Include="sets\set5\005#FacialHair\FrecklesLight004.png" />
-    <Content Include="sets\set5\005#FacialHair\FrecklesLight005.png" />
-    <Content Include="sets\set5\005#FacialHair\FrecklesLight006.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Auburn.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Black.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Blonde.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-BlondeGolden.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Brown.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-BrownDark.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Platinum.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Red.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheFancy.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Auburn.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Black.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Blonde.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-BlondeGolden.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Brown.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-BrownDark.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Platinum.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Red.png" />
-    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum.png" />
-    <Content Include="sets\set5\005#FacialHair\RedDot.png" />
-    <Content Include="sets\set5\005#FacialHair\Wrinkle.png" />
-    <Content Include="sets\set5\005#FacialHair\WrinkleTop.png" />
-    <Content Include="sets\set5\006#Top\Blank.png" />
-    <Content Include="sets\set5\006#Top\Eyepatch.png" />
-    <Content Include="sets\set5\006#Top\Hat.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Black.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Blue01.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Blue02.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Brown.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Gray01.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Gray02.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Heather.png" />
-    <Content Include="sets\set5\006#Top\Hijab-PastelBlue.png" />
-    <Content Include="sets\set5\006#Top\Hijab-PastelGreen.png" />
-    <Content Include="sets\set5\006#Top\Hijab-PastelOrange.png" />
-    <Content Include="sets\set5\006#Top\Hijab-PastelRed.png" />
-    <Content Include="sets\set5\006#Top\Hijab-PastelYellow.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Pink.png" />
-    <Content Include="sets\set5\006#Top\Hijab-Red.png" />
-    <Content Include="sets\set5\006#Top\Hijab-White.png" />
-    <Content Include="sets\set5\006#Top\Hijab.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairBigHair.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairBob.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairBun.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurly.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairCurvy.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairDreads.png" />
-    <Content Include="sets\set5\006#Top\LongHairFrida.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairFro.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairFroBand.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairMiaWallace.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairNotTooLong.png" />
-    <Content Include="sets\set5\006#Top\LongHairShavedSides.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraight2.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Auburn.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Black.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Blonde.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Brown.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Pink.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Platinum.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Red.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\LongHairStraightStrand.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads01.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairDreads02.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairFrizzle.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortCurly.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortFlat.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortRound.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairShortWaved.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairSides.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesar.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Auburn.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Black.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Blonde.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-BlondeGolden.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Brown.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-PastelPink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Pink.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Platinum.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Red.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-SilverGray.png" />
-    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart.png" />
-    <Content Include="sets\set5\006#Top\Turban-Black.png" />
-    <Content Include="sets\set5\006#Top\Turban-Blue01.png" />
-    <Content Include="sets\set5\006#Top\Turban-Blue02.png" />
-    <Content Include="sets\set5\006#Top\Turban-Brown.png" />
-    <Content Include="sets\set5\006#Top\Turban-Gray01.png" />
-    <Content Include="sets\set5\006#Top\Turban-Gray02.png" />
-    <Content Include="sets\set5\006#Top\Turban-Heather.png" />
-    <Content Include="sets\set5\006#Top\Turban-PastelBlue.png" />
-    <Content Include="sets\set5\006#Top\Turban-PastelGreen.png" />
-    <Content Include="sets\set5\006#Top\Turban-PastelOrange.png" />
-    <Content Include="sets\set5\006#Top\Turban-PastelRed.png" />
-    <Content Include="sets\set5\006#Top\Turban-PastelYellow.png" />
-    <Content Include="sets\set5\006#Top\Turban-Pink.png" />
-    <Content Include="sets\set5\006#Top\Turban-Red.png" />
-    <Content Include="sets\set5\006#Top\Turban-White.png" />
-    <Content Include="sets\set5\006#Top\Turban.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Black.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Blue01.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Blue02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Blue03.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Brown.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Gray01.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Gray02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Heather.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-PastelBlue.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-PastelGreen.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-PastelOrange.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-PastelRed.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-PastelYellow.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-Pink.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1-White.png" />
-    <Content Include="sets\set5\006#Top\WinterHat1.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Black.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Blue02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Blue03.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Brown.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Gray01.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Gray02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Heather.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-PastelBlue.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-PastelGreen.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-PastelOrange.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-PastelRed.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-PastelYellow.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Pink.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-Red.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2-White.png" />
-    <Content Include="sets\set5\006#Top\WinterHat2.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Black.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Blue01.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Blue02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Blue03.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Brown.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Gray01.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Gray02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Heather.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-PastelBlue.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-PastelGreen.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-PastelOrange.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-PastelRed.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-PastelYellow.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-Pink.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3-White.png" />
-    <Content Include="sets\set5\006#Top\WinterHat3.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Black.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Blue01.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Blue02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Blue03.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Brown.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Gray01.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Gray02.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Heather.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-PastelBlue.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-PastelGreen.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-PastelOrange.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-PastelRed.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-PastelYellow.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-Pink.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4-White.png" />
-    <Content Include="sets\set5\006#Top\WinterHat4.png" />
-    <Content Include="sets\set5\007#Accessories\Blank.png" />
-    <Content Include="sets\set5\007#Accessories\Kurt-Black.png" />
-    <Content Include="sets\set5\007#Accessories\Kurt-Brown.png" />
-    <Content Include="sets\set5\007#Accessories\Kurt-White.png" />
-    <Content Include="sets\set5\007#Accessories\Kurt.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription01-Black.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription01-Brown.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription01-White.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription01.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription02-Black.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription02-Brown.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription02-White.png" />
-    <Content Include="sets\set5\007#Accessories\Prescription02.png" />
-    <Content Include="sets\set5\007#Accessories\Round-Black.png" />
-    <Content Include="sets\set5\007#Accessories\Round-Brown.png" />
-    <Content Include="sets\set5\007#Accessories\Round-White.png" />
-    <Content Include="sets\set5\007#Accessories\Round.png" />
-    <Content Include="sets\set5\007#Accessories\Sunglasses.png" />
-    <Content Include="sets\set5\007#Accessories\Wayfarers.png" />
+    <Content Include="sets\set4\000#00body\000#body0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\001#body1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\002#body2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\003#body3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\004#body4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\005#body5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\006#body6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\007#body7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\008#body8.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\009#body9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\010#body10.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\011#body11.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\012#body12.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\013#body13.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\000#00body\014#body14.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\000#fur0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\001#fur1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\002#fur2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\003#fur3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\004#fur4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\005#fur5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\006#fur6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\007#fur7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\008#fur8.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\001#01fur\009#fur9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\000#eyes0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\001#eyes1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\002#eyes2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\003#eyes3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\004#eyes4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\005#eyes5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\006#eyes6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\007#eyes7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\008#eyes8.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\009#eyes9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\010#eyes10.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\011#eyes11.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\012#eyes12.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\013#eyes13.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\002#02eyes\014#eyes14.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\000#mouth0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\001#mouth1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\002#mouth2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\003#mouth3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\004#mouth4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\005#mouth5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\006#mouth6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\007#mouth7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\008#mouth8.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\003#03mouth\009#mouth9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\000#accessory0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\001#accessory1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\002#accessory2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\003#accessory3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\004#accessory4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\005#accessory5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\006#accessory6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\007#accessory7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\008#accessory8.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\009#accessory9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\010#accessory10.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\011#accessory11.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\012#accessory12.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\013#accessory13.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\014#accessory14.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set4\004#04accessories\015#accessory15.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\000#Body\Black.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\000#Body\Brown.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\000#Body\DarkBrown.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\000#Body\Light.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\000#Body\Pale.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\000#Body\Tanned.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\000#Body\Yellow.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Close.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Cry.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Default.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Dizzy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\EyeRoll.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Happy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Hearts.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Side.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Squint.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Surprised.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\Wink.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\001#Eye\WinkWacky.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\Angry.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\AngryNatural.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\Default.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\DefaultNatural.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\FlatNatural.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\RaisedExcited.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\RaisedExcitedNatural.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\SadConcerned.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\SadConcernedNatural.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\UnibrowNatural.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\UpDown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\002#Eyebrow\UpDownNatural.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Concerned.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Default.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Disbelief.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Eating.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Grimace.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Sad.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\ScreamOpen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Serious.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Smile.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Tongue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Twinkle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\003#Mouth\Vomit.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\BlazerShirt.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\BlazerSweater.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\CollarSweater.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt--SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Bat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Bear.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Cumbia.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Deer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Diamond.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Hola.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Pizza.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Resist.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-Selena.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White-SkullOutline.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\GraphicShirt.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Hoodie.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\Overall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtCrewNeck.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtScoopNeck.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\004#Cloth\ShirtVNeck.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-BrownDark.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardLight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-BrownDark.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMagestic.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-BrownDark.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\BeardMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\Blush.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\FrecklesHeavy001.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\FrecklesLight001.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\FrecklesLight002.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\FrecklesLight003.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\FrecklesLight004.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\FrecklesLight005.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\FrecklesLight006.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-BrownDark.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheFancy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-BrownDark.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\MoustacheMagnum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\RedDot.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\Wrinkle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\005#FacialHair\WrinkleTop.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Blank.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Eyepatch.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Gray01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Hijab.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBigHair.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBob.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairBun.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurly.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairCurvy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairDreads.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFrida.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFro.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairFroBand.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairMiaWallace.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairNotTooLong.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairShavedSides.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraight2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\LongHairStraightStrand.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairDreads02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairFrizzle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShaggyMullet.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortCurly.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortFlat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortRound.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairShortWaved.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairSides.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Auburn.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Blonde.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-BlondeGolden.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-PastelPink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Platinum.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart-SilverGray.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\ShortHairTheCaesarSidePart.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Gray01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\Turban.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Gray01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Gray01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-Red.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Gray01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Blue01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Blue02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Blue03.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Gray01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Gray02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Heather.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-PastelBlue.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-PastelGreen.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-PastelOrange.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-PastelRed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-PastelYellow.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-Pink.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\006#Top\WinterHat4.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Blank.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Kurt-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Kurt-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Kurt-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Kurt.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription01-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription01-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription01-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription01.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription02-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription02-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription02-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Prescription02.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Round-Black.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Round-Brown.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Round-White.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Round.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Sunglasses.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="sets\set5\007#Accessories\Wayfarers.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\AssemblyInfo.cs">
