@@ -3,7 +3,7 @@
     public static class RoboConsts
     {
         public const string Any = "any";
-        public const int HashCount = 11;
+        public const int HashCount = 12;
         public const string SetsDir = "sets";
         public const string BackgroundsDir = "backgrounds";
         public const int ColorIndex = 0;
